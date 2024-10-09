@@ -1,6 +1,6 @@
-<div align="center">
 
-# CHOI BOHYUN 
+
+## CHOI BOHYUN 
 
  
  🌱 I’m currently learning [typescript],[react],[UI/UX] <br>
@@ -14,13 +14,11 @@
  ![p5js](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlqhgus)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📩 Contact me!
 
 <a href="https://www.instagram.com/chlqhgus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-- Vercel
 
 <!--
 **chlqhgus/chlqhgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +35,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</div>
